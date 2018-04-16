@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/project3.dir/buddy.c.o CMakeFiles/project3.dir/simulator.c.o  -o project3 
